@@ -1,3 +1,5 @@
+http://community.topcoder.com/stat?c=problem_statement&pm=13634
+
 Problem Statement
     	
 The citizens of Byteland want to build N new buildings. The new buildings will all stand in a line and they will be labeled 1 through N, in order. The city regulations impose some restrictions on the heights of the new buildings. You are given the parameters used in these restrictions: two int[]s x and t. The restrictions are described below.
